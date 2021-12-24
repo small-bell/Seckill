@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.smallbell.springcloud.base.config.SessionTypeFilterConfig,\
+  com.smallbell.springcloud.base.config.CustomedRedisHttpSessionConfiguration,\
+  com.smallbell.springcloud.base.config.RedisSessionFilterConfig
